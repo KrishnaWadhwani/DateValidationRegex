@@ -2,7 +2,9 @@
 
 Regex : ```([0-2][0-9]|[3][01])/([0-9]|[1][0-2])/([12].{2}[0-9])```
 
-Regex Year Range: ```From 1000 To 2999```
+* Regex Date Range: ```From 01 To 31```
+* Regex Month Range: ```From 1 To 12```
+* Regex Year Range: ```From 1000 To 2999```
 
 More About This Date Validation Regex
 
